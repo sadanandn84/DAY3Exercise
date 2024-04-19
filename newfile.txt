@@ -1,1 +1,2 @@
 This is in master
+This line is updated in second branch
