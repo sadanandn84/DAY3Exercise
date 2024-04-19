@@ -1,3 +1,6 @@
 This is LINE One
 This is Line 2
-continue working with master branch
+=======
+Updates in new branch
+Another update to file
+
